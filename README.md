@@ -1,6 +1,6 @@
 
 ## <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="650px" height="300">  
-## Hi there 🖐🏽 I am  🖥️🤳 Roni  🇬🇧  🏗  🧱  🧑🏽‍💻   🔓  ⚒️ 🚀  My contact email is  **bornhappy5@gmail.com**   🎯  👍🏽  
+## Hi there 🖐🏽 I am  🖥️🤳  **Roni**  🇬🇧   🏗    🧱    🧑🏽‍💻   🔓  ⚒️   🚀   My contact email is  **bornhappy5@gmail.com**   🎯  👍🏽  
 
 
 <!--
