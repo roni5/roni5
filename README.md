@@ -1,5 +1,6 @@
-# <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="300px">, I am Roni ! 
-### Hi there 👋
+### Hi there 👋  I am Roni ! 
+# <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="750px"> I am Roni ! 
+
 
 <!--
 **roni5/roni5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
