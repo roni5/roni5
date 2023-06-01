@@ -1,7 +1,7 @@
 
 ## <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="650px" height="300">  
-## Hi there 🖐🏽 I am  ✨ Roni  ✨    My contact email is  **bornhappy5@gmail.com**   🧱  🧑🏽‍💻   U+1F44D U+1F3FD
-:dev:
+## Hi there 🖐🏽 I am  ✨ Roni  ✨    My contact email is  **bornhappy5@gmail.com**   🧱  🧑🏽‍💻   :thumbsup_medium_skin_tone:  :man_technologist_medium_skin_tone:  
+
 
 <!--
 **roni5/roni5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
