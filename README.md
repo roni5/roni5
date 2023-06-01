@@ -1,7 +1,7 @@
 
 ## <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="650px" height="300">  
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Roni_McGuinness?logoWidth=40)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Roni_McGuinness?logoWidth=60)
 
 
 ## Hi there 🖐🏽 I am  🖥️🤳  **Roni**  🇬🇧   🏗    🧱    🧑🏽‍💻   🔓  ⚒️   🚀   My contact email is  **bornhappy5@gmail.com**   🎯  👍🏽  
