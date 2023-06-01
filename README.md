@@ -1,10 +1,9 @@
 
 ## <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="650px" height="300">  
-## Hi there 🖐🏽 I am  🖥️🤳  **Roni**  🇬🇧   🏗    🧱    🧑🏽‍💻   🔓  ⚒️   🚀   My contact email is  **bornhappy5@gmail.com**   🎯  👍🏽  
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=plastic&url=https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FRoni_McGuinness">
 
-https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FRoni_McGuinness
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR
+# ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=Roni_McGuinness)
+## Hi there 🖐🏽 I am  🖥️🤳  **Roni**  🇬🇧   🏗    🧱    🧑🏽‍💻   🔓  ⚒️   🚀   My contact email is  **bornhappy5@gmail.com**   🎯  👍🏽  
+
 <!--
 **roni5/roni5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
