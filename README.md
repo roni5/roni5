@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="100px">, I am Roni ! 
+# <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="300px">, I am Roni ! 
 ### Hi there 👋
 
 <!--
