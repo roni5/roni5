@@ -4,9 +4,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Roni_McGuinness?logoWidth=60)   
 
 ---
-## Hi there 🖐🏽&nbsp;&nbsp;&nbsp;  I am  **Roni**  &nbsp;&nbsp;&nbsp; 🇬🇧  &nbsp;&nbsp;&nbsp;  🧑🏽‍💻 &nbsp;&nbsp;&nbsp;  🖥️🤳 &nbsp;&nbsp;&nbsp;  🏗  &nbsp;&nbsp;&nbsp;   🎯  &nbsp;&nbsp;&nbsp; 🔓 &nbsp;&nbsp;&nbsp; &nbsp;🚀  &nbsp;&nbsp;&nbsp;  My contact email is  **bornhappy5@gmail.com** &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 👍🏽  ![image](https://github.com/roni5/roni5/assets/412685/34c60615-d8e4-4091-825a-ad1533064e22)
-
-
+## Hi there 🖐🏽&nbsp;&nbsp;&nbsp;  I am  **Roni**  &nbsp;&nbsp;&nbsp; 🇬🇧  &nbsp;&nbsp;&nbsp;  🧑🏽‍💻 &nbsp;&nbsp;&nbsp;  🖥️🤳 &nbsp;&nbsp;&nbsp;  🏗  &nbsp;&nbsp;&nbsp;   🎯  &nbsp;&nbsp;&nbsp; 🔓 &nbsp;&nbsp;&nbsp; &nbsp;🚀  &nbsp;&nbsp;&nbsp;  My contact email is  **bornhappy5@gmail.com** &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 👍🏽  
 ---
 
 🧰 Toolbox
