@@ -1,7 +1,7 @@
 
 ## <img src="https://raw.githubusercontent.com/roni5/profile-images/main/code.gif" width="650px" height="300">  
 [Roni McGuinness on Twitter](https://twitter.com/Roni_McGuinness)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Roni_McGuinness?logoWidth=60)   
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/Roni_McGuinness?logoWidth=60)   Click Name not badge
 ---
 ## Hi there 🖐🏽&nbsp;&nbsp;&nbsp;  I am  **Roni**  &nbsp;&nbsp;&nbsp; 🇬🇧  &nbsp;&nbsp;&nbsp;  🧑🏽‍💻 &nbsp;&nbsp;&nbsp;  🖥️🤳 &nbsp;&nbsp;&nbsp;  🏗  &nbsp;&nbsp;&nbsp;   🎯  &nbsp;&nbsp;&nbsp; 🔓 &nbsp;&nbsp;&nbsp; &nbsp;🚀  &nbsp;&nbsp;&nbsp;  My contact email is  **bornhappy5@gmail.com** &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 👍🏽  
 ---
