@@ -11,7 +11,7 @@
 ![JavaScript Logo](https://commons.wikimedia.org/wiki/Special:Redirect/file/JavaScript-logo.png?width=50&height=50)
 
 
-![TypeScript Logo](https://www.typescriptlang.org/assets/images/icons/favicon.ico)
+![TypeScript Logo](https://commons.wikimedia.org/wiki/File:Typescript-logo.png?width=150&height=50)
 
 
 ---
