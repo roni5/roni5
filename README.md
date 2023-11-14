@@ -6,14 +6,8 @@
 ---
 ## Hi there 🖐🏽&nbsp;&nbsp;&nbsp;  I am  **Roni**  &nbsp;&nbsp;&nbsp; 🇬🇧  &nbsp;&nbsp;&nbsp;  🧑🏽‍💻 &nbsp;&nbsp;&nbsp;  🖥️🤳 &nbsp;&nbsp;&nbsp;  🏗  &nbsp;&nbsp;&nbsp;   🎯  &nbsp;&nbsp;&nbsp; 🔓 &nbsp;&nbsp;&nbsp; &nbsp;🚀  &nbsp;&nbsp;&nbsp;  My contact email is  **bornhappy5@gmail.com** &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 👍🏽  
 ---
-
-🧰 Toolbox
 ![JavaScript Logo](https://commons.wikimedia.org/wiki/Special:Redirect/file/JavaScript-logo.png?width=50&height=50)
-
-
 ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Typescript-logo.png?width=150&height=50)
-
-
 ---
 <!--
 **roni5/roni5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
