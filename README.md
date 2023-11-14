@@ -8,7 +8,7 @@
 ---
 
 🧰 Toolbox
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg){ width=60%,height:30px }
+![JavaScript Logo](https://commons.wikimedia.org/wiki/File:JavaScript-logo.png){ width=60%,height:30px }
 ![TypeScript Logo](https://www.typescriptlang.org/assets/images/icons/favicon.ico)
 
 
