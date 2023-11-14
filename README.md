@@ -8,7 +8,8 @@
 ---
 
 🧰 Toolbox
-![JavaScript Logo](https://imgproxy.net/unsafe/50x50/https://commons.wikimedia.org/wiki/File:JavaScript-logo.png)
+![JavaScript Logo](https://commons.wikimedia.org/wiki/Special:Redirect/file/JavaScript-logo.png?width=50&height=50)
+
 
 ![TypeScript Logo](https://www.typescriptlang.org/assets/images/icons/favicon.ico)
 
